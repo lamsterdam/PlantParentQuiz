@@ -7,7 +7,11 @@
 **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
 **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
-**App utilizes JavaScript, HTML, CSS, React and was bootstrapped with Vite**
+## Tech Used
+- React
+- HTML
+- CSS
+- Bootstrapped with Vite
 
 ## Video Walkthrough
 
