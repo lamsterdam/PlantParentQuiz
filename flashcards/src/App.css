@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+
+ body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-image: url('9747749-houseplants-in-pots-seamless-pattern.jpg');
+  background-size: cover;
+}
+
+.button {
+  background-color: rgba(3, 117, 74, 0.942);
+  font-weight: bold;
+  color: white;
+  border-radius: 15px;
+}
+
+/* input[type=text] {
+  border: 2px solid black;
+  border-radius: 4px;
+} */
+
+.wrong {
+  border: 2px solid red;
+  border-radius: 20px;
+}
+
+.correct {
+  border: 2px solid blue;
+  border-radius: 20px;
+}
+
